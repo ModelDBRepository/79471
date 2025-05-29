@@ -12,8 +12,7 @@ CHEMESIS scripts used for the simulations are available at
 A local copy is also available at ModelDB by selecting local instead of
 current version in the pop-down selector above.
 
-20161219 The above URL was updated.
+## Changelog
+20161219 The above URL was updated.  
 
----
-
-2025-05-27 – Standardized to Markdown.
+20250527 Standardized to Markdown.
